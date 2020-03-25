@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\HospitalApplication.exe.config
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\HospitalApplication.exe
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\HospitalApplication.pdb
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\EntityFramework.dll
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\EntityFramework.xml
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\obj\Debug\HospitalApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\obj\Debug\HospitalApplication.csproj.CopyComplete
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\obj\Debug\HospitalApplication.exe
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\obj\Debug\HospitalApplication.pdb
+C:\Users\Dell\source\repos\HospitalApplication\HospitalApplication\obj\Debug\HospitalApplication.csprojAssemblyReference.cache
